@@ -84,17 +84,17 @@ module.exports = function logger(config, logspec) {
             if (tags) {
                 //revisit figuring out whether string or array
                 if (tags === '*' || tags === tag) {
-                    logHelpers[type].log(label, level, info);
+                    logHelpers[type].log(tag, level, info);
                 } else if(Array.isArray(tags)) {
                     if(!Array.isArray(tag)) {
                         if(!tags.every(f(tag))){
-                            logHelpers[type].log(label, level, info);
+                            logHelpers[type].log(tag, level, info);
                         }
                     } else if(intersect(tag, tags).length > 0) {
-                        logHelpers[type].log(label, level, info);
+                        logHelpers[type].log(tag, level, info);
                     }
                 } else if(Array.isArray(tag) && !tag.every(f(tags))) {
-                    logHelpers[type](label, level, info);
+                    logHelpers[type](tag, level, info);
                 }
                 //no logging since this log unit did not require logging
             }

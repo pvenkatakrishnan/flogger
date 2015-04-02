@@ -1,5 +1,4 @@
 # flogger
-----------
 
 A logging pattern.
 

@@ -1,3 +1,8 @@
+# flogger
+----------
+
+A logging pattern.
+
 ### Usage
 Configurations for your logger:
 ```
@@ -69,3 +74,4 @@ log.info('txSearch',obj, ['UI', 'business']);
  * Easy Enable/Disable logging level eg. `logger.enable('debug', false)` disables log.debug for everything.
  * Extract interesting things from an object given a jsonpath.
  * Capability to interpolate interesting data from `req` or similar without passing it around.
+

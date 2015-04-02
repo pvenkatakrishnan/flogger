@@ -1,0 +1,31 @@
+{
+  "name": "flogger",
+  "version": "0.0.1",
+  "description": "A logger pattern for logging into multiple destinations",
+  "main": "index.js",
+  "author": {
+    "name": "Poornima Venkatakrishnan",
+    "email": "poornima.venkatakrishnan@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pvenkatakrishnan/flogger.git"
+  },
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "bugs": {
+    "url": "https://github.paypal.com/pvenkatakrishnan/logger/issues"
+  },
+  "homepage": "https://github.paypal.com/pvenkatakrishnan/logger",
+  "dependencies": {
+    "fastpath": "^0.1.1"
+  },
+  "devDependencies": {
+    "tape": "^2.4.2",
+    "pine": "^1.0.0"
+  },
+  "scripts": {
+    "test": "tape test/*.js",
+    "cover": "istanbul cover tape -- test/*.js",
+    "lint": "jshint -c .jshintrc index.js lib/ view/"
+  }
+}

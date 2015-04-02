@@ -1,0 +1,50 @@
+{"level":"error","message":"[48070:bar] \"txSearch\"","timestamp":"2015-04-02T06:07:56.081Z"}
+{"level":"error","message":"[48070:bar] \"txSearch\"","timestamp":"2015-04-02T06:07:56.084Z"}
+{"level":"info","message":"[48070:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:07:56.082Z"}
+{"level":"info","message":"[48070:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:07:56.084Z"}
+{"level":"info","message":"[48070:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:07:56.082Z"}
+{"level":"info","message":"[48070:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:07:56.084Z"}
+{"level":"info","message":"[48070:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444]}","timestamp":"2015-04-02T06:07:56.083Z"}
+{"level":"info","message":"[48070:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:07:56.084Z"}
+{"level":"foo","message":"[48070:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444]}","timestamp":"2015-04-02T06:07:56.083Z"}
+{"level":"foo","message":"[48070:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:07:56.084Z"}
+{"level":"error","message":"[48073:bar] \"txSearch\"","timestamp":"2015-04-02T06:10:18.028Z"}
+{"level":"error","message":"[48073:bar] \"txSearch\"","timestamp":"2015-04-02T06:10:18.030Z"}
+{"level":"info","message":"[48073:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:10:18.029Z"}
+{"level":"info","message":"[48073:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:10:18.030Z"}
+{"level":"info","message":"[48073:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:10:18.029Z"}
+{"level":"info","message":"[48073:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:10:18.030Z"}
+{"level":"info","message":"[48073:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444]}","timestamp":"2015-04-02T06:10:18.029Z"}
+{"level":"info","message":"[48073:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:10:18.030Z"}
+{"level":"error","message":"[48076:bar] \"txSearch\"","timestamp":"2015-04-02T06:13:15.333Z"}
+{"level":"error","message":"[48076:bar] \"txSearch\"","timestamp":"2015-04-02T06:13:15.335Z"}
+{"level":"info","message":"[48076:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:13:15.334Z"}
+{"level":"info","message":"[48076:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:13:15.335Z"}
+{"level":"info","message":"[48076:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:13:15.334Z"}
+{"level":"info","message":"[48076:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:13:15.335Z"}
+{"level":"info","message":"[48076:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444]}","timestamp":"2015-04-02T06:13:15.334Z"}
+{"level":"info","message":"[48076:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:13:15.335Z"}
+{"level":"error","message":"[48080:bar] \"txSearch\"","timestamp":"2015-04-02T06:13:54.324Z"}
+{"level":"error","message":"[48080:bar] \"txSearch\"","timestamp":"2015-04-02T06:13:54.326Z"}
+{"level":"info","message":"[48080:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:13:54.325Z"}
+{"level":"info","message":"[48080:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:13:54.326Z"}
+{"level":"info","message":"[48080:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:13:54.325Z"}
+{"level":"info","message":"[48080:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:13:54.326Z"}
+{"level":"info","message":"[48080:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444]}","timestamp":"2015-04-02T06:13:54.325Z"}
+{"level":"info","message":"[48080:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:13:54.326Z"}
+{"level":"error","message":"[48083:bar] \"txSearch\"","timestamp":"2015-04-02T06:15:36.561Z"}
+{"level":"error","message":"[48083:bar] \"txSearch\"","timestamp":"2015-04-02T06:15:36.563Z"}
+{"level":"info","message":"[48083:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:15:36.562Z"}
+{"level":"info","message":"[48083:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:15:36.563Z"}
+{"level":"info","message":"[48083:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:15:36.562Z"}
+{"level":"info","message":"[48083:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:15:36.563Z"}
+{"level":"info","message":"[48083:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444]}","timestamp":"2015-04-02T06:15:36.562Z"}
+{"level":"info","message":"[48083:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:15:36.564Z"}
+{"level":"error","message":"[48089:bar] \"txSearch\"","timestamp":"2015-04-02T06:18:00.734Z"}
+{"level":"error","message":"[48089:bar] \"txSearch\"","timestamp":"2015-04-02T06:18:00.736Z"}
+{"level":"info","message":"[48089:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:18:00.735Z"}
+{"level":"info","message":"[48089:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:18:00.736Z"}
+{"level":"info","message":"[48089:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"]}","timestamp":"2015-04-02T06:18:00.735Z"}
+{"level":"info","message":"[48089:bar] {\"numCards\":[3],\"bankNames\":[\"WellsFargo\",\"Bank Of America\"],\"accountNumbers\":[\"123\",\"456\",\"789\"],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:18:00.736Z"}
+{"level":"info","message":"[48089:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444]}","timestamp":"2015-04-02T06:18:00.735Z"}
+{"level":"info","message":"[48089:bar] {\"startDate\":[\"12-01-2012\"],\"endDate\":[\"12-25-2012\"],\"size\":[4],\"mostRecent\":[\"123456\"],\"transactions\":[111,222,333,444],\"correlationId\":\"12345\"}","timestamp":"2015-04-02T06:18:00.736Z"}

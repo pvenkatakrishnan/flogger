@@ -1,0 +1,14 @@
+{
+    "txSearch": {
+        "startDate": "$.search.startDate",
+        "endDate": "$.search.endDate",
+        "size": "$.search.activities.length",
+        "mostRecent": "$.search.activities[0].timeStamp",
+        "transactions": "$.search.activities[*].transactionId"
+    },
+    "finIns": {
+        "numCards": "$.finIns.cards.length",
+        "bankNames": "$.finIns.banks[*].name",
+        "accountNumbers": "$.finIns.banks[*].accounts[*].accountNumber"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "logging": {
+        "type": {
+            "foo": {
+                "level": {
+                    "error": "*",
+                    "info": ["business", "services"],
+                    "foo": ["UI"]
+                },
+                "transports": {
+                    "console": {
+                        "level": "error"
+                    }
+                },
+                "module": "./test/loggers/fooLogger"
+            },
+            "bar": {
+                "level": {
+                    "error": "*",
+                    "info": "*"
+                },
+                "transports": {
+                    "file":  {
+                        "filename": "./test/bar_log.txt"
+                    }
+                },
+                "module": "./test/loggers/barLogger"
+            }
+        },
+        "levels": {
+            "joke": true
+        }
+    }
+}

@@ -1,0 +1,2 @@
+# flogger
+A logging pattern.
